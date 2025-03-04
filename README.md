@@ -1,6 +1,6 @@
-# untitled
+Weather app
 
-A new Flutter project.
+A simple weather app i made during my appdevelopment with flutter course.
 
 ## Getting Started
 
