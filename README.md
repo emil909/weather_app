@@ -1,6 +1,6 @@
 Weather app
 
-A simple weather app i made during my appdevelopment with flutter course.
+A simple weather app i made during my app development with flutter course.
 
 ## Getting Started
 
