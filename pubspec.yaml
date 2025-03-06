@@ -30,6 +30,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  # ... other dependencies ...
+  intl: ^0.19.0 # Or the latest version available
+
+  # ... the rest of your pubspec ...
 
 
   # The following adds the Cupertino Icons font to your application.
